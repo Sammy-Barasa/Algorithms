@@ -1,4 +1,4 @@
-package com.algorithms.arrays.MergeSortedArray;
+package com.algorithms.arrays.RemoveElement;
 
 public class RemoveElement {
 
